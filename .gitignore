@@ -1,0 +1,13 @@
+*.pdf
+*.aux
+*.log
+*.toc
+*.dvi
+*.out
+*.synctex
+*.bbl
+*.synctex.gz
+*.swp
+*.blg
+/tmp/
+*.synctex(busy)
